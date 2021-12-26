@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 -->
 
 
-<img align="left" src="https://github.com/berceou/berceou/blob/main/hello-world.gif" width="300" height="300" />  
+<img align="left" src="https://github.com/berceou/berceou/blob/main/hello-world.gif" width="350" height="350" />  
 
 ### :sparkles: Hi! I am Özüm    
   
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 :tada: Get a job opportunity    
 <br/>  
 <br/>
-#### :computer: Technologies
+### :computer: Technologies
 <code><a target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
 <code><a target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></a></code>
 <code><a target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></a></code>
@@ -47,10 +47,9 @@ Here are some ideas to get you started:
 
 <br/>  
   
-<img height="120em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=berceou&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="mukireus"/>  
+<img height="125em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=berceou&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="mukireus"/>  
 
 ### :point_down: Where to find me  
-
 <img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /> [LinkedIn](www.linkedin.com/in/berce-ozum-uygun)  
 
 <img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" /> [Gmail](mailto:berceozumm@gmail.com)   
