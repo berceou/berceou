@@ -29,6 +29,7 @@ Here are some ideas to get you started:
  :mortar_board: I am an Electrical and Electronics Engineer  
  :running: I currently learning Front-End Development  
  :beginner: I currently working on HTML5, CSS3, JavaScript.  
+ <br/>
    
 #### :pushpin: The Goals of 2022  
 :tada: Concentrating on javascript, react.js, node.js  
@@ -46,7 +47,7 @@ Here are some ideas to get you started:
 <code><a target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></a></code>  
 <br/>  
   
-<img height="100em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=berceou&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="mukireus"/>  
+<img height="180em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=berceou&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="mukireus"/>  
 
 #### :point_down: Where to find me  
 
