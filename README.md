@@ -31,12 +31,12 @@ Here are some ideas to get you started:
  :beginner: I currently working on HTML5, CSS3, JavaScript.  
  <br/>
    
-#### :pushpin: The Goals of 2022  
+### :pushpin: The Goals of 2022  
 :tada: Concentrating on javascript, react.js, node.js  
 :tada: Get a job opportunity    
 <br/>  
 <br/>
-#### 👨‍💻 Technologies:
+#### :computer: Technologies
 <code><a target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
 <code><a target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></a></code>
 <code><a target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></a></code>
@@ -49,7 +49,7 @@ Here are some ideas to get you started:
   
 <img height="120em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=berceou&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="mukireus"/>  
 
-#### :point_down: Where to find me  
+### :point_down: Where to find me  
 
 <img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /> [LinkedIn](www.linkedin.com/in/berce-ozum-uygun)  
 
