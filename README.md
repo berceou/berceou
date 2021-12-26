@@ -22,13 +22,14 @@ Here are some ideas to get you started:
 -->
 
 
-<img align="left" src="https://github.com/berceou/berceou/blob/main/hello-world.gif" width="350" height="350" />  
+<img align="left" src="https://github.com/berceou/berceou/blob/main/hello-world.gif" width="320" height="320" />  
 
 ### :sparkles: Hi! I am Özüm    
   
  :mortar_board: I am an Electrical and Electronics Engineer  
  :running: I currently learning Front-End Development  
  :beginner: I currently working on HTML5, CSS3, JavaScript.  
+ <br/>
  <br/>
    
 ### :pushpin: The Goals of 2022  
@@ -45,8 +46,7 @@ Here are some ideas to get you started:
 <code><a target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
 <code><a target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></a></code>  
 
-<br/>  
-  
+<br/>
 <img height="125em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=berceou&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="mukireus"/>  
 
 ### :point_down: Where to find me  
