@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 -->
 
 
-<img align="left" src="https://github.com/berceou/berceou/blob/main/hello-world.gif" width="400" height="400" />  
+<img align="left" src="https://github.com/berceou/berceou/blob/main/hello-world.gif" width="300" height="300" />  
 
 ## :sparkles: Hi! I am Özüm    
   
