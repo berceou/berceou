@@ -22,27 +22,27 @@ Here are some ideas to get you started:
 -->
 
 
-<img align="left" src="https://github.com/berceou/berceou/blob/main/hello-world.gif" width="300" height="300" />  
+<img align="left" src="https://github.com/berceou/berceou/blob/main/hello-world.gif" width="200" height="200" />  
 
-## :sparkles: Hi! I am Özüm    
+### :sparkles: Hi! I am Özüm    
   
  :mortar_board: I am an Electrical and Electronics Engineer  
  :running: I currently learning Front-End Development  
  :beginner: I currently working on HTML5, CSS3, JavaScript.  
    
    
-### :pushpin: The Goals of 2022  
+#### :pushpin: The Goals of 2022  
 :tada: Improve my skills. Concentrating on javascript, react.js, node.js  
 :tada: Get a job opportunity  
   
   
-### :point_down: Where to find me  
+#### :point_down: Where to find me  
  <img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /> [LinkedIn](www.linkedin.com/in/berce-ozum-uygun)  
  <img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" /> [Gmail](mailto:berceozumm@gmail.com)  
  <img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg" /> [Twitter](https://twitter.com/BerceozumU) 
 
 
- ### 👨‍💻 Technologies:
+#### 👨‍💻 Technologies:
 <code><a target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
 <code><a target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></a></code>
 <code><a target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></a></code>
