@@ -30,15 +30,15 @@ Here are some ideas to get you started:
  :running: I currently learning Front-End Development  
  :beginner: I currently working on HTML5, CSS3, JavaScript.  
    
-   
 #### :pushpin: The Goals of 2022  
-:tada: Improve my skills. Concentrating on javascript, react.js, node.js  
-:tada: Get a job opportunity  
-  
+:tada: Concentrating on javascript, react.js, node.js  
+:tada: Get a job opportunity    
   
 #### :point_down: Where to find me  
 
-<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /> [LinkedIn](www.linkedin.com/in/berce-ozum-uygun) <img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" /> [Gmail](mailto:berceozumm@gmail.com) <img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg" /> [Twitter](https://twitter.com/BerceozumU) 
+<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /> [LinkedIn](www.linkedin.com/in/berce-ozum-uygun)  
+<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" /> [Gmail](mailto:berceozumm@gmail.com)  
+<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg" /> [Twitter](https://twitter.com/BerceozumU) 
 
 
 #### 👨‍💻 Technologies:
