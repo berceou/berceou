@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 ### :sparkles: Hi! I am Özüm    
   
  :mortar_board: I am an Electrical and Electronics Engineer  
- :running: I currently learning Front-End Development  
+ :running: I constantly improving myself in Front-End Development  
  :beginner: I currently working on HTML5, CSS3, JavaScript.  
  <br/>
  <br/>
@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 
 <br/>
 <br/>
-<img height="110em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=berceou&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="mukireus"/>  
+<img height="110em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=berceou&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="mukireus"/>  
 
 ### :point_down: Where to find me  
 <img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /> [LinkedIn](www.linkedin.com/in/berce-ozum-uygun)  
