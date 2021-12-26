@@ -22,8 +22,7 @@ Here are some ideas to get you started:
 -->
 
 
-<img align="left" src="https://github.com/berceou/berceou/blob/main/hello-world.gif" width="200" height="200" />  
-
+<img align="left" src="https://github.com/berceou/berceou/blob/main/hello-world.gif" width="250" height="250" />
 ### :sparkles: Hi! I am Özüm    
   
  :mortar_board: I am an Electrical and Electronics Engineer  
