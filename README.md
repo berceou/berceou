@@ -48,6 +48,7 @@ Here are some ideas to get you started:
 <br/>  
   
 <img height="120em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=berceou&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="mukireus"/>  
+
 #### :point_down: Where to find me  
 
 <img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /> [LinkedIn](www.linkedin.com/in/berce-ozum-uygun)  
