@@ -33,7 +33,7 @@ Here are some ideas to get you started:
  <br/>
    
 ### :pushpin: The Goals of 2022  
-:tada: Concentrating on javascript, react.js, node.js  
+:tada: Concentrating on JavaScript, React.js, Node.js  
 :tada: Get a job opportunity    
 <br/>  
 ### :computer: Technologies
