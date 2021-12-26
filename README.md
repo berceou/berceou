@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 -->
 
 
-<img align="left" src="https://github.com/berceou/berceou/blob/main/hello-world.gif" width="250" height="250" />  
+<img align="left" src="https://github.com/berceou/berceou/blob/main/hello-world.gif" width="300" height="300" />  
 
 ### :sparkles: Hi! I am Özüm    
   
@@ -46,7 +46,8 @@ Here are some ideas to get you started:
 <code><a target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></a></code>  
 <br/>  
   
-  
+<img height="100em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=berceou&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="mukireus"/>  
+
 #### :point_down: Where to find me  
 
 <img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /> [LinkedIn](www.linkedin.com/in/berce-ozum-uygun)  
@@ -54,7 +55,7 @@ Here are some ideas to get you started:
 <img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" /> [Gmail](mailto:berceozumm@gmail.com)   
 
 <img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg" /> [Twitter](https://twitter.com/BerceozumU) 
-<img height="100em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=berceou&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="mukireus"/>
+
   
 
   
