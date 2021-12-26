@@ -34,8 +34,7 @@ Here are some ideas to get you started:
 #### :pushpin: The Goals of 2022  
 :tada: Concentrating on javascript, react.js, node.js  
 :tada: Get a job opportunity    
-  
-  
+<br/>  
 
 #### 👨‍💻 Technologies:
 <code><a target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
@@ -47,7 +46,7 @@ Here are some ideas to get you started:
 <code><a target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></a></code>  
 <br/>  
   
-<img height="180em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=berceou&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="mukireus"/>  
+<img height="120em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=berceou&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="mukireus"/>  
 
 #### :point_down: Where to find me  
 
