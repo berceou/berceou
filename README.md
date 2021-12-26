@@ -34,13 +34,7 @@ Here are some ideas to get you started:
 :tada: Concentrating on javascript, react.js, node.js  
 :tada: Get a job opportunity    
   
-#### :point_down: Where to find me  
-
-<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /> [LinkedIn](www.linkedin.com/in/berce-ozum-uygun)  
-<a target="_blank" href="www.linkedin.com/in/berce-ozum-uygun"><img height="40" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"></a>
-<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" /> [Gmail](mailto:berceozumm@gmail.com)  
-<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg" /> [Twitter](https://twitter.com/BerceozumU) 
-
+  
 
 #### 👨‍💻 Technologies:
 <code><a target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
@@ -50,8 +44,19 @@ Here are some ideas to get you started:
 <code><a target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></a></code>
 <code><a target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
 <code><a target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></a></code>  
+<br/>  
   
- https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg
+  
+#### :point_down: Where to find me  
+
+<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /> [LinkedIn](www.linkedin.com/in/berce-ozum-uygun)  
+
+<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" /> [Gmail](mailto:berceozumm@gmail.com)   
+
+<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg" /> [Twitter](https://twitter.com/BerceozumU) 
+<img height="100em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=berceou&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="mukireus"/>
+  
+
   
   
 
