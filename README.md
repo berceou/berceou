@@ -55,7 +55,5 @@ Here are some ideas to get you started:
 <img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg" /> [Twitter](https://twitter.com/BerceozumU) 
 
   
-
-  
   
 
