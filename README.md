@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   
  :mortar_board: I am an Electrical and Electronics Engineer  
  :running: I constantly improving myself in Front-End Development  
- :beginner: I currently working on HTML5, CSS3, JavaScript.  
+ :beginner: I currently learning HTML5, CSS3, JavaScript.  
  <br/>
  <br/>
    
