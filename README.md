@@ -19,6 +19,9 @@ Here are some ideas to get you started:
 <code><a target="_blank"><img height="50" src="https://seeklogo.com/images/C/c-logo-1B1817C041-seeklogo.com.png"></a></code>
 
 <img height="100em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=berceou&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="mukireus"/> : language
+
+<code><a target="_blank"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Amazon_Lambda_architecture_logo.png"></a></code>
+<code><a target="_blank"><img height="60" src="https://upload.wikimedia.org/wikipedia/commons/f/fd/DynamoDB.png"></a></code>
 -->
 
 
@@ -27,7 +30,7 @@ Here are some ideas to get you started:
 ### :sparkles: Hi! I am Özüm    
   
  :mortar_board: I am an Electrical and Electronics Engineer  
- :running: I constantly improving myself in Full-Stack Development  
+ :running: I constantly improving myself in Front-End Development  
  :beginner: I currently learning HTML5, CSS3, JavaScript.  
  <br/>
  <br/>
@@ -45,8 +48,6 @@ Here are some ideas to get you started:
 <code><a target="_blank"><img height="60" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></a></code>
 <code><a target="_blank"><img height="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/97px-Git_icon.svg.png"></a></code>
 <code><a target="_blank"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png"></a></code>
-<code><a target="_blank"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Amazon_Lambda_architecture_logo.png"></a></code>
-<code><a target="_blank"><img height="60" src="https://upload.wikimedia.org/wikipedia/commons/f/fd/DynamoDB.png"></a></code>
 <br/>
  
 
