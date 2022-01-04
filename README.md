@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 ### :sparkles: Hi! I am Özüm    
   
  :mortar_board: I am an Electrical and Electronics Engineer  
- :running: I constantly improving myself in Front-End Development  
+ :running: I constantly improving myself in Full-Stack Development  
  :beginner: I currently learning HTML5, CSS3, JavaScript.  
  <br/>
  <br/>
@@ -51,12 +51,11 @@ Here are some ideas to get you started:
  
 
 ### :point_down: Where to find me  
-<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /> [LinkedIn](www.linkedin.com/in/berce-ozum-uygun)  
-
-<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" /> [Gmail](mailto:berceozumm@gmail.com)   
-
-<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg" /> [Twitter](https://twitter.com/BerceozumU) 
-
+<img align="center" alt="linkedin" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/>   [LinkedIn](www.linkedin.com/in/berce-ozum-uygun) 
+<img align="center" height="24" width="24" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" />   [Gmail](mailto:berceozumm@gmail.com) 
+<img align="center" height="24" width="24" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/512px-Twitter-logo.svg.png" />       [Twitter](https://twitter.com/BerceozumU) 
+<img align="center" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/HackerRank_logo.png/600px-HackerRank_logo.png" />   [HackerRank](https://www.hackerrank.com/berceozumm?hr_r=1) 
+<img align="center" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/8/81/Stackoverflow_icon.png" />  [Stack Overflow](https://stackoverflow.com/users/17711029/berce-ozum-uygun) 
   
   
 
