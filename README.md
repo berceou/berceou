@@ -30,8 +30,8 @@ Here are some ideas to get you started:
 ### :sparkles: Hi! I am Özüm    
   
  :mortar_board: I am an Electrical and Electronics Engineer  
- :running: I constantly improving myself in Front-End Development  
- :beginner: I currently learning HTML5, CSS3, JavaScript.  
+ :running: I constantly improving myself in Full-Stack Development  
+ :beginner: I currently learning HTML5, CSS3, JavaScript, NodeJS, ReactJS  
  <br/>
  <br/>
    
