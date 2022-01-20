@@ -25,7 +25,8 @@ Here are some ideas to get you started:
 -->
 
 
-<img align="left" src="https://github.com/berceou/berceou/blob/main/hello-world.gif" width="320" height="320" />  
+<img align="left" src="https://github.com/berceou/berceou/blob/main/hello-world.gif#gh-dark-mode-only" width="320" height="320" /><img align="left" src="https://github.com/berceou/berceou/blob/main/trex-pc.gif#gh-light-mode-only" width="320" height="320" />
+
 
 ### :sparkles: Hi! I am Özüm    
   
