@@ -1,27 +1,13 @@
 <!--
 **berceou/berceou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
   
 <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=berceou&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="mukireus"/> : yüzdeli
-### :pushpin: The Goals of 2022  
-
-<code><a target="_blank"><img height="50" src="https://seeklogo.com/images/C/c-logo-1B1817C041-seeklogo.com.png"></a></code>
 
 <img height="100em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=berceou&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="mukireus"/> : language
-
 <code><a target="_blank"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Amazon_Lambda_architecture_logo.png"></a></code>
-<code><a target="_blank"><img height="60" src="https://upload.wikimedia.org/wikipedia/commons/f/fd/DynamoDB.png"></a></code>
 -->
 
 
@@ -49,6 +35,7 @@ Here are some ideas to get you started:
 <code><a target="_blank"><img height="60" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></a></code>
 <code><a target="_blank"><img height="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/97px-Git_icon.svg.png"></a></code>
 <code><a target="_blank"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png"></a></code>
+<code><a target="_blank"><img height="60" src="https://upload.wikimedia.org/wikipedia/commons/f/fd/DynamoDB.png"></a></code>
 <br/>
  
 
