@@ -18,7 +18,7 @@
   
  :mortar_board: I am an Electrical and Electronics Engineer  
  :running: I constantly improving myself in Full-Stack Development  
- :beginner: I currently learning HTML5, CSS3, JavaScript, NodeJS, ReactJS  
+ :beginner: I currently learning HTML5, CSS3, JavaScript, Node.js, React.js  
  <br/>
  <br/>
    
