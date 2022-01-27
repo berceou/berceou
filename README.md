@@ -1,8 +1,4 @@
 <!--
-**berceou/berceou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
   
 <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=berceou&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="mukireus"/> : yüzdeli
 
@@ -18,7 +14,7 @@
   
  :mortar_board: I am an Electrical and Electronics Engineer  
  :running: I constantly improving myself in Full-Stack Development  
- :beginner: I currently learning HTML5, CSS3, JavaScript, Node.js, React.js  
+ :beginner: I currently learning HTML5, CSS3, JavaScript, TypeScript, Node.js, React.js  
  <br/>
  <br/>
    
