@@ -12,15 +12,15 @@
 
 ### :sparkles: Hi! I am Berçe Özüm    
   
- :mortar_board: I am an Electrical and Electronics Engineer  
+ :mortar_board: I am an Electronics Engineer  
+ :computer: I currently working as Jr. Backend Developer  
  :running: I constantly improving myself in Full-Stack Development  
- :beginner: I currently learning HTML5, CSS3, JavaScript, TypeScript, Node.js, React.js  
+ :beginner: I currently learning HTML5, CSS3, JavaScript, TypeScript, Node.js, React.js, AWS  
  <br/>
  <br/>
    
 ### :pushpin: The Goals of 2022  
-:tada: Concentrating on JavaScript, React.js, Node.js  
-:tada: Get a job opportunity    
+:tada: Concentrating on JavaScript, React.js, Node.js, AWS    
 <br/>  
 ### :computer: Technologies
 <code><a target="_blank"><img height="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png"></a></code>
