@@ -9,7 +9,9 @@
 
 <img align="left" src="https://github.com/berceou/berceou/blob/main/hello-world.gif#gh-dark-mode-only" width="320" height="320" /><img align="left" src="https://github.com/berceou/berceou/blob/main/trex-pc.gif#gh-light-mode-only" width="320" height="320" />
 
-
+ <br/>  
+  <br/>  
+ 
 ### :sparkles: Hi! I am Berçe Özüm    
   
  :mortar_board: I am an Electronics Engineer  
@@ -17,11 +19,8 @@
  :running: I constantly improving myself in Full-Stack Development  
  :beginner: I currently learning HTML5, CSS3, JavaScript, TypeScript, Node.js, React.js, AWS  
  <br/>
- <br/>
-   
-### :pushpin: The Goals of 2022  
-:tada: Concentrating on JavaScript, React.js, Node.js, AWS    
-<br/>  
+ <br/>   
+ <br/>  
 ### :computer: Technologies
 <code><a target="_blank"><img height="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png"></a></code>
 <code><a target="_blank"><img height="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/363px-CSS3_logo_and_wordmark.svg.png"></a></code>
