@@ -15,18 +15,14 @@
 ### :sparkles: Hi! I am Berçe Özüm    
   
  :mortar_board: I am an Electronics Engineer  
- :computer: I currently working as Jr. Backend Developer  
- :running: I constantly improving myself in Full-Stack Development  
- :beginner: I currently learning HTML5, CSS3, JavaScript, TypeScript, Node.js, React.js, AWS  
+ :computer: I currently working as Backend Developer  
+ :running: I constantly improving myself in Backend Development with Nodejs  
+ :beginner: I currently learning JavaScript, TypeScript, Node.js, AWS, ElasticSearch  
  <br/>
  <br/>   
  <br/>  
 ### :computer: Technologies
-<code><a target="_blank"><img height="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png"></a></code>
-<code><a target="_blank"><img height="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/363px-CSS3_logo_and_wordmark.svg.png"></a></code>
-<code><a target="_blank"><img height="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png"></a></code>
 <code><a target="_blank"><img height="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/240px-JavaScript-logo.png"></a></code>
-<code><a target="_blank"><img height="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/512px-React.svg.png"></a></code>
 <code><a target="_blank"><img height="60" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></a></code>
 <code><a target="_blank"><img height="65" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/97px-Git_icon.svg.png"></a></code>
 <code><a target="_blank"><img height="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png"></a></code>
