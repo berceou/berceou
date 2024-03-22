@@ -37,10 +37,6 @@
 <img align="center" height="24" width="24" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/512px-Twitter-logo.svg.png" />       [Twitter](https://twitter.com/BerceozumU) 
 <img align="center" height="50" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/HackerRank_logo.png/600px-HackerRank_logo.png" />   [HackerRank](https://www.hackerrank.com/berceozumm?hr_r=1) 
 <img align="center" height="50" width="40" src="https://upload.wikimedia.org/wikipedia/commons/8/81/Stackoverflow_icon.png" />  [Stack Overflow](https://stackoverflow.com/users/17711029/berce-ozum-uygun)  
-
-</br>
-
-![snake svg](https://github.com/berceou/berceou/blob/output/github-contribution-grid-snake.svg)
   
   
 
