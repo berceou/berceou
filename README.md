@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Berçe Özüm</h1>
 <h3 align="center">A passionate backend developer from Turkey. I work as a backend developer in the field of e-commerce</h3>
-<img align="left" src="https://github.com/berceou/berceou/blob/6dfa2d468d50a10ccb87bbb65b9dfd66e2b60c42/trex-pc.gif" width="300" height="300" />
 
 - 🔭 I’m currently working on **Typescript, AWS**
 
